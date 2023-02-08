@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-mkdir -p out
+#mkdir -p out
 
-for dataset in "bangladesh" "indonesia" "philippines" "chile" "panama" "france" #"europe"
+for dataset in "bangladesh" "indonesia" "philippines" "chile" "panama" "france" "europe"
 do
 	for scaleM in "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "14" "15" "16" "17" "18" "19" "20" "30" "40" "50" "60"
 	do
